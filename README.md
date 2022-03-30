@@ -1,6 +1,8 @@
 # loki
 
-Scrapes host system logs and Grafana logs. Query logs within Grafana
+Working example of Loki, Promtail, and Grafana.
+
+Promtail scrapes host system logs and Grafana logs. Then, query logs within Grafana interface.
 
 ## getting started
 
